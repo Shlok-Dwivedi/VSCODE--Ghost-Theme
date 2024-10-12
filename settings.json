@@ -1,0 +1,110 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "onFocusChange",
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    /*
+    //Black Ops Settings
+    "workbench.colorCustomizations": {
+        "textLink.foreground": "#b72e2e",
+        "textLink.activeForeground": "#e3a0a0",
+        "button.foreground": "#ffffff",
+        "button.background": "#ff0000",
+        "statusBar.background": "#ff0000a4",
+        "statusBar.noFolderBackground": "#ff0000bd",
+        "statusBar.debuggingBackground": "#ff0000c1",
+        "list.hoverBackground": "#686868",
+        "list.activeSelectionBackground": "#777777"
+    },
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/Shlok/Desktop/VS-Code-Theme/BO/BO.css",
+        "file:///C:/Users/Shlok/Desktop/VS-Code-Theme/BO/BO.js"
+    ],
+    "vscode_custom_css.force": true,
+    "vscode_custom_css.policy": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "background.enabled": true,
+    "background.loop": false,
+    "workbench.editor.enablePreview": false,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+        "content": "url('file:///C:/Users/Shlok/Desktop/VS-Code-Theme/BO/Mason-2.jpg')",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "center",
+        "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.4
+    },
+    "background.customImages": [
+        "file:///C:/Users/Shlok/Desktop/VS-Code-Theme/BO/Mason-2.jpg"            
+    ],
+    "editor.minimap.enabled": false,
+    "background.editorBackgrounds": [
+        "c:/Users/Shlok/Desktop/VS-Code-Theme/MW/Choices.jpg"
+    ]
+    */
+    //MW2 Settings
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#00FF00",  // Change to your desired line number color
+        "editorLineNumber.activeForeground": "#00FF00",  // Change the active line number color
+        "activityBar.foreground": "#1aff00",  // Change the color of the icons (folder, run, debug) in the activity bar
+        "activityBar.inactiveForeground": "#64dc3c",  // Color for inactive icons
+        "activityBarBadge.background": "#34ff34",  // Badge background color (e.g., the number of changes in Git)
+        "activityBarBadge.foreground": "#55ff00a7",  // Badge text color
+        "activityBar.background": "#333333",  // Background color of the activity bar
+        "sideBarTitle.foreground": "#95ff00",  // Change the title text color (e.g., "Explorer", "Run", "Source Control")
+        "textLink.foreground": "#57b72e",
+        "textLink.activeForeground": "#bae3a0cb",
+        "button.foreground": "#ffffff",
+        "button.background": "#15ff0095",
+        "statusBar.background": "#55ff00a5",
+        "statusBar.noFolderBackground": "#62ff00c6",
+        "statusBar.debuggingBackground": "#37ff00c2",
+        "list.hoverBackground": "#686868",
+        "list.activeSelectionBackground": "#777777"
+    },
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/Shlok/Desktop/VS-Code-Theme/MW/MW2.css",
+    ],
+    "vscode_custom_css.force": true,
+    "vscode_custom_css.policy": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "background.enabled": true,
+    "background.loop": false,
+    "workbench.editor.enablePreview": false,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+        "content": "url('file:///C:/Users/Shlok/Desktop/VS-Code-Theme/MW/Images/Choices.jpg')",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "center",
+        "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.3
+    },
+    "background.customImages": [
+        "file:///C:/Users/Shlok/Desktop/VS-Code-Theme/MW/Images/Choices.jpg"            
+    ],
+    "editor.minimap.enabled": false,
+    "background.useInvertedOpacity": false,
+    "background.backgroundOpacity": [
+        0.1,
+        0.2,
+        0.1,
+        0.1
+    ],
+    "background.editorBackgrounds": [],
+    "background.autoInstall": false,
+    "lldb.suppressUpdateNotifications": true
+}

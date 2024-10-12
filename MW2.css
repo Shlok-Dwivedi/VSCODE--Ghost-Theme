@@ -1,0 +1,191 @@
+.mtk6,
+.action-label {
+    color: #59ff00;
+    /*text-shadow: 0 0 2px #1eff00b8, 0 0 3px rgba(192, 71, 71, 0), 0 0 5px rgba(219, 60, 60, 0), 0 0 8px rgba(98, 235, 19, 0.601);*/
+}
+
+.mtk6 {
+    color: #59ff00;
+}
+
+.mtk25 {
+    color: #de8358;
+}
+
+.show-file-icons .cpp-lang-file-icon.file-icon::before {
+    color: #59ff00;
+    content: '\E01A';
+    background-image: unset;
+}
+
+.show-file-icons .python-lang-file-icon.file-icon::before {
+    color: #59ff00;
+    content: '\E07B';
+    background-image: unset;
+}
+
+.show-file-icons .css-lang-file-icon.file-icon::before,
+.show-file-icons .postcss-lang-file-icon.file-icon::before,
+.show-file-icons .css\.map-ext-file-icon.map-ext-file-icon.ext-file-icon.file-icon::before,
+.show-file-icons .sss-ext-file-icon.ext-file-icon.file-icon::before {
+    color: #59ff00;
+    content: '\E01D';
+    background-image: unset;
+}
+
+.mtk22 {
+    color: #36f2ad;
+}
+
+.mtk27 {
+    color: #eeba60;
+}
+
+.mtk7 {
+    color: #59ff00;
+    /*text-shadow: 0 0 1px #83e433e8, 0 0 1px rgba(151, 255, 54, 0.764), 0 0 2px rgba(126, 215, 97, 0.795), 0 0 4px rgba(125, 218, 82, 0.808);*/
+}
+
+.line-numbers {
+    color: #ffffff;
+    text-shadow: 0 0 1px #ffffff00, 0 0 2px rgba(115, 255, 0, 0), 0 0 3px rgba(102, 255, 0, 0), 0 0 5px rgba(136, 255, 0, 0);
+}
+
+.monaco-editor .margin {
+    background-color: transparent !important;
+}
+
+.monaco-editor .sticky-widget-line-numbers {
+    color: #59ff00;
+    text-shadow: 0 0 1px #6aff009e, 0 0 2px rgba(124, 255, 31, 0.877), 0 0 3px rgba(102, 237, 30, 0.795), 0 0 5px rgba(94, 237, 38, 0.755);
+}
+
+.monaco-workbench .part.editor>.content .gettingStartedContainer .button-link {
+    color: #59ff00;
+    text-shadow: 0 0 1px #3af31100, 0 0 3px rgba(116, 245, 96, 0), 0 0 5px rgba(105, 247, 53, 0), 0 0 8px rgba(119, 241, 89, 0);
+}
+
+.monaco-workbench .part.editor>.content .gettingStartedContainer .button-link .codicon {
+    color: #59ff00;
+    text-shadow: 0 0 1px #3cff0000, 0 0 3px rgba(132, 234, 101, 0), 0 0 5px rgba(110, 232, 40, 0), 0 0 8px rgba(59, 235, 19, 0);
+}
+
+.show-file-icons .c-lang-file-icon.file-icon::before {
+    color: #59ff00;
+    content: '\E00C';
+    background-image: unset;
+}
+
+.monaco-workbench .part.statusbar>.left-items {
+    flex-grow: 1;
+    background-color: rgb(46, 46, 46);
+    color: rgb(255, 255, 255);
+    width: 1536px;
+    height: 22px;
+}
+
+.monaco-workbench .part.statusbar>.right-items {
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    background-color: rgb(44, 44, 44);
+    color: rgb(255, 255, 255);
+    width: 1536px;
+    height: 22px;
+}
+
+body {
+    background: url('file:///C:/Users/Shlok/Desktop/VS-Code-Theme/MW/Images/Ghost-2.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.monaco-workbench .part.editor>.content .gettingStartedContainer .gettingStartedSlideCategories li {
+    list-style: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #59ff00;
+    /*text-shadow: 0 0 1px #2fff0090, 0 0 3px rgba(97, 192, 71, 0.918), 0 0 5px rgba(82, 232, 40, 0.945), 0 0 8px rgba(69, 235, 19, 0.601);*/
+}
+
+.monaco-workbench .part.editor>.content .gettingStartedContainer .gettingStartedSlideDetails .getting-started-step .codicon-getting-started-step-checked,
+.monaco-workbench .part.editor>.content .gettingStartedContainer .gettingStartedSlideDetails .getting-started-step.expanded .codicon-getting-started-step-unchecked,
+.monaco-workbench .part.editor>.content .gettingStartedContainer .icon-widget {
+    color: var(--vscode-textLink-foreground);
+}
+
+.monaco-editor .bracket-highlighting-2 {
+    color: #d2c86d;
+}
+
+.monaco-editor .bracket-highlighting-1 {
+    color: #d9994a;
+}
+
+.monaco-editor .bracket-highlighting-3 {
+    color: #d979c8c7;
+}
+
+.monaco-editor .bracket-highlighting-4 {
+    color: #e74f4fbe;
+}
+
+.mtk12 {
+    color: #ceac78cd;
+}
+
+
+/*.mtk21 {
+  color: #e4c25b;
+  text-shadow: 0 0 2px #ce907800, 0 0 2px rgba(238, 159, 23, 0.612), 0 0 3px rgba(201, 154, 89, 0.607), 0 0 5px rgba(208, 146, 60, 0.678);
+}*/
+
+.mtk23 {
+    color: #ffffff;
+}
+
+.mtk25 {
+    color: #ce9178;
+}
+
+.mtk10 {
+    color: #00bbff;
+}
+
+.mtk21 {
+    color: #00bbff;
+}
+
+.statusbar {
+    background-color: black !important;
+}
+
+.codicon-accounts-view-bar-icon:before {
+    content: '';
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url(/C:/Users/Shlok/Desktop/VS-Code-Theme/MW/Ghost-2-c.jpg);
+    background-size: 100%;
+}
+
+.monaco-editor,
+.editor-instance {
+    background-color: #1C1C1C !important;
+}
+
+.monaco-editor,
+.monaco-editor-background,
+.monaco-editor .inputarea.ime-input {
+    background-color: transparent !important;
+}
+
+.monaco-editor-background {
+    background-color: transparent !important;
+}
+
+.mtk16 {
+    color: #ffffff;
+    /*text-shadow: 0 0 2px #001716, 0 0 2px rgba(255, 255, 255, 0.616), 0 0 3px rgba(255, 255, 255, 0.622), 0 0 5px rgba(255, 255, 255, 0.474);*/
+}
